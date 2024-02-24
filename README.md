@@ -1,8 +1,3 @@
-# React + Vite
+# Stepper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Checkout Stepper is a React component for creating multi-step checkouts. It includes a progress bar, useState, useEffect, and useRef for state and DOM management. Open-source on GitHub, it's customizable, accessible, and designed for seamless checkout experiences.
